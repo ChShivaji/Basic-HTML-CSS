@@ -48,6 +48,9 @@ body{
     font-size: 20px;
     border-radius: 10px;
 }
+.hero img{
+    justify-content: right;
+}
 .hero button:hover {
     background-color:white;
     color: cadetblue;
